@@ -43,7 +43,7 @@ pillow==10.4.0
 pluggy==1.5.0
 protobuf==5.28.3
 pyarrow==18.0.0
-pycosat==0.6.4
+pycosat==0.6.6
 pycparser==2.21
 pydantic==2.9.2
 pydantic_core==2.23.4
