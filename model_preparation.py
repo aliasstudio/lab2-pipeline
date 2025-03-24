@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 import joblib
 import os
-
+import numpy as np
 
 def train_model(train_folder):
     X_train = []
