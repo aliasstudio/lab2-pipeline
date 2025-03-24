@@ -12,7 +12,6 @@ cffi==1.16.0
 charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
-conda==23.3.1
 conda-content-trust==0.1.0
 conda-package-handling==2.3.0
 conda-package-streaming==0.9.0
